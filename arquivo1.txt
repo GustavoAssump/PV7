@@ -1,0 +1,10 @@
+lenha1
+linha2
+linha3
+linha4
+linha5
+gitadd
+2addsemcommit
+3addsemcommit
+4add sc
+
